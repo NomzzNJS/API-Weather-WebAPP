@@ -1,5 +1,6 @@
 # API-Weather-WebAPP
-I made a Weather WebApp leveraging the OpenWeatherMap API, using HTML, CSS and vanilla JavaScript. 
+
+<p>I made a Weather WebApp leveraging the OpenWeatherMap API, using HTML, CSS and vanilla JavaScript.</p> 
 <br>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
