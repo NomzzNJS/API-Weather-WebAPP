@@ -4,4 +4,4 @@
 
 Learnt about <B><I>API</B></I> and thought of implementing it in a simple yet deployable way. This WebApp allows users to search for any city and instantly view its current weather conditions, including the temperature, weather description. 
 <br>
-<i>I ain't committing the code yet</i>
+<i>I ain't committing the code yet, kinda busy with exams</i>
